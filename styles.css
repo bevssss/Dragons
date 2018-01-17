@@ -1,0 +1,40 @@
+
+body{
+	background-color: #f6f1d0;
+}
+h1 {
+	font-size: 25px;
+	color: #ff0000;
+	text-align: center;
+	font-family: "Arial Black", Gadget, sans-serif
+}
+
+
+h2 {
+	background-color: tomato;
+    color: white;
+    padding: 10px;
+	font-size: 25px;
+	font-family: "Comic Sans MS", cursive, sans-serif
+	
+}
+
+p.one {
+	font-size: 20px;
+	color: #000000;
+	font-family:'Proxima Nova Soft','Helvetica Neue',sans-serif;
+	text-indent: 50px
+}
+
+p.two{
+	font-size: 20px;
+	color: #000000;
+	font-family:'Proxima Nova Soft','Helvetica Neue',sans-serif;
+}
+.pic1{
+	height:500px;
+	width:700px;
+}
+a {
+	text-decoration: none;
+}
